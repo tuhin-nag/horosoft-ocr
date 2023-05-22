@@ -1,0 +1,14 @@
+for planetary postion:
+    0. pl list
+    1. sgn list
+    2. degree list
+    3. sgn2 list
+    4. nak list
+    5. sub list
+    6. ssb list
+
+for prime significators:
+    0. star list
+    1. signi1 list
+    2. substar list
+    3. signi2 list

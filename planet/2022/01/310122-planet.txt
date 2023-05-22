@@ -1,0 +1,14 @@
+Date Time Planet ZOD Degree SGN NAK SUB SSB NaN
+31/01/22 04:00 0 0 40000 Mar Ven Ven Mar 
+31/01/22 04:00 0 0 71122 Sat Mon Sat Rah 
+31/01/22 04:00 0 0 035144 Sat sun Sat Ven 
+31/01/22 04:00 0 0 04428 Jup Ket Sat Mar 
+31/01/22 04:00 0 0 011455 Sat sun Jup Jup 
+31/01/22 04:00 0 0 2.5309 Sat Rah Mer Ket 
+31/01/22 04:00 0 0 65930 Jup Ven Mon Mer 
+31/01/22 04:00 0 0 211421 Sat Mon Ven Mar 
+31/01/22 04:00 0 0 044457 Ven sun Sat Rah 
+31/01/22 04:00 0 0 044457 Mar Sat Sat Mar 
+31/01/22 04:00 0 0 643.48 Mar Ven Mon Sat 
+31/01/22 04:00 0 0 271502 Sat Jup Ven Mar 
+31/01/22 04:00 0 0 024604 Sat sun Jup Rah 
